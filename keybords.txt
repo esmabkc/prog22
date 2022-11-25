@@ -1,0 +1,39 @@
+python'da kullanılan anahtar kelimeler
+
+if
+
+else  
+elif
+pass
+True
+False
+import
+and 
+or
+
+
+
+Python'da kullanılan Operatörler
+*    çarpma
+/    bölme
++    topllama
+-     çıkarma
+= atama
+** üssünü alma
+== eşitlik Operatörler 
+!=  eşit değil
+<    küçüktür
+>     büyüktür
+<=   küçük eşittir
+>=   büyük eşittir
+//     bölümün tam sayı tarafı
+%  kalan
+while
+break
+not
+for
+i
+def
+return
+none
+global
